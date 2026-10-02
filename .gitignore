@@ -1,0 +1,5 @@
+.venv/
+Sarkilar/
+ffmpeg.exe
+ffprobe.exe
+__pycache__/
